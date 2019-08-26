@@ -1,0 +1,1 @@
+dubboLogFilter=com.niki.log.dubbofilter.DubboLogFilter
