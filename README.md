@@ -4,7 +4,7 @@
 niki-elk-log项目集成elk日志输出，包含日志输出，切面日志打印，日志链式查找traceRootId,兼容所有spring项目(包含dubbo项目)
 
 #### 软件架构
-软件架构说明:spring 
+软件架构说明:spring项目架构
 
 
 #### 安装教程
